@@ -1,0 +1,12 @@
+{
+  "name": "p2.sheila.stegman",
+  "version": "1.0.0",
+  "main": "sketch.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,26 @@
+[
+{
+  "SMSNotificationAmount":"2",
+  "SMS": [
+      {
+        "from": "Ethan",
+        "message":"Going to the store. Need anything?",
+        "timeStamp": "4 mins ago"
+      },
+      {
+        "from": "Janet (dentist)",
+        "message":"Appointment reminder for 12/19/22",
+        "timeStamp":"39 mins ago"
+      }
+  ],
+"TwitterNotificationAmount":"1",
+"Twitter": [{
+  "from": "@Waterburger",
+  "interaction":"tweeted",
+  "description":"Bingus Bongas new Burger",
+  "timeStamp":"1 hr ago"
+  }
+]
+
+}
+]                    
